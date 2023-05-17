@@ -1,0 +1,124 @@
+{
+  "content": [
+    {
+      "id": 47191,
+      "course": "Master of Business Administration (iMBA)",
+      "university": "University of Illinois Urbana-Champaign",
+      "instructor": "Mr Fatih Tüzün",
+      "location": "Illinois",
+      "price": 120,
+      "enroll": "https://www.coursera.org/degrees/imba",
+      "picture": "https://randomuser.me/api/portraits/med/men/38.jpg"
+    },
+    {
+      "id": 24443,
+      "course": "Master of Applied Data Science",
+      "university": "University of Michigan",
+      "instructor": "Miss Jos Guerrero",
+      "location": "Michigan",
+      "price": 85,
+      "enroll": "https://www.coursera.org/degrees/master-of-applied-data-science-umich",
+      "picture": "https://randomuser.me/api/portraits/med/women/75.jpg"
+    },
+    {
+      "id": 6141,
+      "course": "MSc Data Science (Statistics)",
+      "university": "University of Leeds",
+      "instructor": "Miss Tora Nur",
+      "location": "Leeds",
+      "price": 97,
+      "enroll": "https://www.coursera.org/degrees/msc-data-science-ul",
+      "picture": "https://randomuser.me/api/portraits/med/women/55.jpg"
+    },
+    {
+      "id": 5055,
+      "course": "Executive MBA",
+      "university": "Indian Institute of Technology Roorkee",
+      "instructor": "Mrs Sofia Henry",
+      "location": "Roorkee",
+      "price": 55,
+      "enroll": "https://www.coursera.org/degrees/emba-iitr",
+      "picture": "https://randomuser.me/api/portraits/med/women/93.jpg"
+    },
+    {
+      "id": 96865,
+      "course": "Bachelor of Science in Computer Science",
+      "university": "Birla Institute of Technology & Science, Pilani",
+      "instructor": "Mr Mikael Jutila",
+      "location": "Pilani",
+      "price": 94,
+      "enroll": "https://www.coursera.org/degrees/bachelor-of-science-computer-science-bits",
+      "picture": "https://randomuser.me/api/portraits/med/men/7.jpg"
+    },
+    {
+      "id": 7447,
+      "course": "Bachelor of Arts in Liberal Studies Completion Program",
+      "university": "Georgetown University School of Continuing Studies",
+      "instructor": "Ms Alev Baltussen",
+      "location": "Georgetown",
+      "price": 74,
+      "enroll": "https://www.coursera.org/degrees/ba-liberal-studies-georgetown",
+      "picture": "https://randomuser.me/api/portraits/med/women/63.jpg"
+    },
+    {
+      "id": 5228,
+      "course": "Master of Public Health",
+      "university": "University of Michigan",
+      "instructor": "Mr Riley Diaz",
+      "location": "Michigan",
+      "price": 52,
+      "enroll": "https://www.coursera.org/degrees/mph-umich",
+      "picture": "https://randomuser.me/api/portraits/med/men/64.jpg"
+    },
+    {
+      "id": 27506,
+      "course": "Master of Computer and Information Technology",
+      "university": "University of Pennsylvania",
+      "instructor": "Mr Nelly Blanco",
+      "location": "Pennsylvania",
+      "price": 75,
+      "enroll": "https://www.coursera.org/degrees/mcit-penn",
+      "picture": "https://randomuser.me/api/portraits/med/men/45.jpg"
+    },
+    {
+      "id": 18667,
+      "course": "Bachelor of Applied Arts and Sciences",
+      "university": "University of North Texas",
+      "instructor": "Ms Georgia Jackson",
+      "location": "North Texas",
+      "price": 67,
+      "enroll": "https://www.coursera.org/degrees/unt-online-bachelor-completion",
+      "picture": "https://randomuser.me/api/portraits/med/women/81.jpg"
+    },
+    {
+      "id": 58073,
+      "course": "Master of Science in Machine Learning and Data Science",
+      "university": "Imperial College London",
+      "instructor": "Mr Sobislav Leshchinska",
+      "location": "London",
+      "price": 85,
+      "enroll": "https://www.coursera.org/degrees/msc-machine-learning-imperial",
+      "picture": "https://randomuser.me/api/portraits/med/men/23.jpg"
+    },
+    {
+      "id": 22750,
+      "course": " Global Master of Public Health (GMPH)",
+      "university": "Imperial College London",
+      "instructor": "Mr Virodan Prokop'yuk",
+      "location": "London",
+      "price": 75,
+      "enroll": "https://www.coursera.org/degrees/global-mph-imperial",
+      "picture": "https://randomuser.me/api/portraits/med/men/45.jpg"
+    },
+    {
+      "id": 15128,
+      "course": "Online Master of Computer Science",
+      "university": "Arizona State University",
+      "instructor": "Mr Leo Almeida",
+      "location": "Arizona",
+      "price": 95,
+      "enroll": "https://www.coursera.org/degrees/master-of-computer-science-asu",
+      "picture": "https://randomuser.me/api/portraits/med/men/18.jpg"
+    }
+  ]
+}
