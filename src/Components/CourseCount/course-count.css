@@ -1,25 +1,11 @@
-aside {
-    border-left: 1px solid #dbd5d5;
-    padding: var(--padding);
-}
-
-aside h2 {
-    font-weight: 600;
-    font-size: var(--font-size);
-}
-
 small {
     color: var(--font-color);
 }
 
-aside h2 small {
-    font-size: 1rem;
-}
-
 aside p {
-    font-size: 0.8rem;
+    font-size: var(--small-font-size);
 }
 
 hr {
-    border: 1px solid var(--font-color);
+    border: 1px dashed var(--font-color);
 }

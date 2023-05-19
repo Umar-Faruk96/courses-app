@@ -14,7 +14,7 @@ const Courses = (props) => {
 
   try {
     return (
-      <main>
+      <main className="m-3">
         <section className="courses-container">
           {courses.map((course) => (
             <Course
@@ -40,19 +40,19 @@ const Course = (props) => {
   courseModule;
 
   return (
-    <section className="course-container">
-      <h3>{course}</h3>
-      <ul>
-        <li>From {university}</li>
-        <li>By {instructor}</li>
-        <li>Located in {location}</li>
+    <section className="text-center p-2 rounded border border-light-subtle course-container">
+      <h3 className="fs-5 m-0">{course}</h3>
+      <ul className="m-0 p-0">
+        <li className="py-1 px-0 fw-medium">From {university}</li>
+        <li className="pb-1 pt-0 px-0">By {instructor}</li>
+        <li className="pb-1 pt-0 px-0 fw-light">Located in {location}</li>
         <li>
-          <a href={enroll}>See Course Detail</a>
+          <a className="m-0 text-decoration-none" href={enroll}>See Course Detail</a>
         </li>
       </ul>
-      <p>at only ${price}</p>
-      <button onClick={() => props.addCourse(courseModule)}>Buy This Course</button>
-      <img src={picture} alt={instructor} />
+      <p className="my-2">at only ${price}</p>
+      <button className="rounded border-0" onClick={() => props.addCourse(courseModule)}>Buy This Course</button>
+      <img className="w-25 mx-auto mt-2 rounded-circle d-block" src={picture} alt={instructor} />
     </section>
   );
 };
